@@ -1,10 +1,14 @@
 # friends_list
 
-A new Flutter project.
+A  Flutter project show list of friends.
+
+![friends](https://user-images.githubusercontent.com/24944117/209464183-184efdd7-8e56-4613-9ffc-7bdee6d23360.jpg)
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
